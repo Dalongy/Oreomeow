@@ -1,5 +1,5 @@
 一键安装 青龙面板及ninja 脚本
-执行命令：wget -q https://ghproxy.com/https://github.com/dalongilz/Oreomeow/blob/main/Scripts/sh/ql.sh -O ql.sh && bash ql.sh
+执行命令：wget -q https://ghproxy.com/https://github.com/dalongy/Oreomeow/blob/main/Scripts/sh/ql.sh -O ql.sh && bash ql.sh
 # 📌 [News](./Log/News.md#news)
 
 
