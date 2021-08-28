@@ -1,3 +1,5 @@
+一键安装 青龙面板及ninja 脚本
+执行命令：wget -q https://raw.githubusercontents.com/Oreomeow/VIP/main/Scripts/sh/ql.sh -O ql.sh && bash ql.sh
 # 📌 [News](./Log/News.md#news)
 
 
